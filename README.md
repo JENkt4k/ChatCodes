@@ -1,3 +1,4 @@
+```python
 import bpy
 
 # Create a new scene
@@ -46,3 +47,5 @@ spline.bezier_points[4].handle_right = (5, -5, 0)
 
 spline.bezier_points[5].co = (0, 0, 0)
 spline.be
+
+```
