@@ -1,3 +1,9 @@
+Results
+```
+"Can you write a program that runs in blender to create a single tube in the shape of a :-) 1 mm in diameter where the :-) is 10 m in size"
+```
+
+
 ```python
 import bpy
 
@@ -49,3 +55,6 @@ spline.bezier_points[5].co = (0, 0, 0)
 spline.be
 
 ```
+
+
+Can you write a program that runs in blender to create a single tube in the shape of a :-) 1 mm in diameter where the :-) is 10 m in size
